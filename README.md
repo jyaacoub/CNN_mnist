@@ -22,7 +22,7 @@ CNN_mnist/src/main/java/MNISTReading/
   - MnistDataReader: class to read and parse through the Mnist data to provide meaningful inputs and labels for our network.
   - MnistMatrix: class that holds the actual data for each image.
 
-**GUI**
+**GUI:**
 CNN_mnist/src/main/java/GUI/
- -Display: This is the file to run if you want to see the network work in real-time. I have already included some serialized networks 
+ - Display: This is the file to run if you want to see the network work in real-time. I have already included some serialized networks 
       that have been trained to be used for this purpose.
